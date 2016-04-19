@@ -1,6 +1,6 @@
 // Example of polymorphism using Abstract Class
 
-package com.cisco.oops.part3;
+package com.oops.part3;
 
 public class AbstractClassEx1Main {
 
